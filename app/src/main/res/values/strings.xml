@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">20200140042_Exe1_A</string>
+    <string name="header">Todo App</string>
+    <string name="nama">Nama</string>
+    <string name="email">Email</string>
+    <string name="memail">Masukkan Email</string>
+    <string name="mnama">Masukkan Nama</string>
+    <string name="repass">Re-Password</string>
+    <string name="password">Password</string>
+    <string name="mpassword">Masukkan Password</string>
+    <string name="signin">SIGN IN</string>
+    <string name="register">Register</string>
+    <string name="sd">Selamat Datang</string>
+    <string name="task">Task</string>
+    <string name="mtask">Masukkan Task</string>
+    <string name="jetask">Jenis Task</string>
+    <string name="mjetask">Masukkan Jenis Task</string>
+    <string name="timetask">Time Task</string>
+    <string name="mtimetask">Masukkan Lama Task</string>
+</resources>
